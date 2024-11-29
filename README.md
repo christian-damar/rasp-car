@@ -124,7 +124,7 @@ https://youtu.be/jGDrGZ_NNSE
 
 ## Conclusions
 
-Christian Damar:
+Christian Damar: This project provided me with the opportunity to delve into various roles within the tech field, including software development, hardware integration, and project management. By implementing the Scrum methodology, we successfully delivered a final product that we were genuinely proud of. This experience, spanning different areas of development, has been invaluable and will undoubtedly prove beneficial in future endeavors. I can't wait to embark on new projects that integrate and expand upon these domains of knowledge!
 
 Emiliano López:
 
